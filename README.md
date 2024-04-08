@@ -4,7 +4,7 @@
 Suite of codes to reproduce the results presented in the paper by Turquet, Brissaud, et al: Retrieving seismic source characteristics using seismic and infrasound data: The 2020 mb 4.9 Kiruna minequake, Sweden. This study is funded by the AIR project: https://norsarair.github.io/. Codes developed by Quentin Brissaud, geophysicist at NORSAR.
 
 <p align="center">
-<img width="421" alt="image" src="https://user-images.githubusercontent.com/6717390/230471273-a553ba77-6860-4752-8100-3eb6956b4a40.png" />
+<img width="421" alt="image" src="https://github.com/QuentinBrissaud/Kiruna/blob/master/figure_inversion_kiruna.png?raw=true" />
 </p>
 
 ## Data
