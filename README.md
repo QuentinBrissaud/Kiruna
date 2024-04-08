@@ -1,0 +1,2 @@
+# Retrieving seismic source characteristics using seismic and infrasound data: The 2020 mb 4.9 Kiruna minequake, Sweden
+Suite of codes to reproduce the results presented in the paper by Turquet, Brissaud, et al: Retrieving seismic source characteristics using seismic and infrasound data: The 2020 mb 4.9 Kiruna minequake, Sweden. This study is funded by the AIR project: https://norsarair.github.io/. Codes developed by Quentin Brissaud, geophysicist at NORSAR.
